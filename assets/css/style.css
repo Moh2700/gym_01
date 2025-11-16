@@ -338,13 +338,6 @@ h1, h2 {
 
 /*=========================================*/
 
-/*
-.galleryimgsize {
-  height :300px;
-  width:100%
-}
-*/
-
 .galleryimgsize  {
   width: 100%;
   aspect-ratio: 16 / 9;
@@ -356,58 +349,53 @@ h1, h2 {
   border: 0;
 }
 
-/*
-.galleryimgsize {
-  
-   width: 100%; 
-   aspect-ratio: 16 / 9;
+
+/* makes a two column-layout instead of four columns */
+@media screen and (max-width: 900px) {
+  .column {
+  width: 50%;
+  }
 }
 
-*/
+/*makes the two columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 600px) {
+  .column {
+  width: 100%;
+  }
+}
 
-      /* makes a two column-layout instead of four columns */
-      @media screen and (max-width: 900px) {
-        .column {
-          width: 50%;
-        }
-      }
+.user-img {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  object-fit: cover;
+}
 
-      /*makes the two columns stack on top of each other instead of next to each other */
-      @media screen and (max-width: 600px) {
-        .column {
-          width: 100%;
-        }
-      }
+.testimonial-card {
+  background: #fff;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+  padding: 20px;
+  transition: transform 0.3s;
+  height: 100%;
+}
 
-      .user-img {
-        width: 50px;
-        height: 50px;
-        border-radius: 50%;
-        object-fit: cover;
-      }
+.testimonial-card:hover {
+        
+  transform: translateY(-5px);
+  }
 
-      .testimonial-card {
-        background: #fff;
-        border-radius: 12px;
-        box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
-        padding: 20px;
-        transition: transform 0.3s;
-        height: 100%;
-      }
-      .testimonial-card:hover {
-        transform: translateY(-5px);
-      }
-      .user-img {
-        width: 50px;
-        height: 50px;
-        border-radius: 50%;
-        object-fit: cover;
-      }
+.user-img {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  object-fit: cover;
+}
 
-      .testimonial-text {
-        font-style: italic;
-        color: #555;
-      }
+.testimonial-text {
+  font-style: italic;
+  color: #555;
+}
 
 
 .image-container {
@@ -491,7 +479,6 @@ h1, h2 {
 
 }
 
-
 .containermodel {
   width: 100%;
   aspect-ratio: 16 / 9;
@@ -505,8 +492,6 @@ h1, h2 {
 
 .gymbackgrndimg   {
   width: 107vh; 
- /*height: 650px;*/
- 
   aspect-ratio: 16 / 9;
   
 }
@@ -522,24 +507,6 @@ h1, h2 {
 
 @media screen and (min-width: 320px)  and (max-width: 768px) {
   
-  /*
-  .gymbackgrndimg  {
-     width:95%;
-     height:300px;
-     object-fit: cover;
-     padding:5px;
-     padding-left: 20px;
-  }
-     */
-
-  /*
-  .gymbackgrndimg  {
-    width: 100%; 
-    aspect-ratio: 16 / 9;
-  }
-  */
-
-  
 .containermodel {
   width: 100%;
   aspect-ratio: 16 / 9;
@@ -550,10 +517,7 @@ h1, h2 {
   height: 100%;
   border: 0;
 }
-
-
 }
-
 
 #reducefont > p { 
     text-align: left; 
