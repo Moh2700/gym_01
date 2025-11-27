@@ -6,7 +6,7 @@ Regular workouts help you build muscle, burn fat, and improve flexibility, but t
 
 # Gym User Story
 
-As a gym member I want view the available gym membership plans offered by the Feel Good Gym in order to choose the best one for me. View the gym's schedule that I can plan my visits to the gym. Choose the right trainers for my projected goals for my training. Read people testimonials or reviews so that I can make my own decision to suit my needs. View gym classes and book gym instructor. Contact the gym easily via a form so that I can ask questions. View photos and videos of the gym so that I can get a feel and a sense of the gym environment suitable for me.
+As a gym member I want to view the available gym membership plans offered by the Feel Good Gym in order to choose the best one for me. View the gym's schedule that I can plan my visits to the gym. Choose the right trainers for my projected goals for my training. Read people testimonials or reviews so that I can make my own decision to suit my needs. View gym classes and book gym instructor. Contact the gym easily via a form so that I can ask questions. View photos and videos of the gym so that I can get a feel and a sense of the gym environment suitable for me.
 
 # Features
 
@@ -433,5 +433,21 @@ The icons in the footer were taken from
 - The photos used in the home, classes and aboutus page.
 - The photos used on the home page .
 - The images used for the gallery page.
-#   g y m _ 0 1  
- 
+
+# Project setup
+
+## create a new repository on the command line
+
+echo "# gym_01" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Moh2700/gym_01.git
+git push -u origin main
+
+## push an existing repository from the command line
+
+git remote add origin https://github.com/Moh2700/gym_01.git
+git branch -M main
+git push -u origin main
