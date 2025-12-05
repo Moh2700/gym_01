@@ -847,15 +847,17 @@ The live link can be found here - https://Moh2700.github.io/gym_01/index.html
 # Credits
 
 This code is taken taken from w3 schools for image rendering in the css file for gallery page.
-![W3 Schools] ("https://www.w3schools.com/")
+[W3 Schools](https://www.w3schools.com/)
+
+[This is an external link to genome.gov](https://www.genome.gov/)
 
 # Content
 
 **Bootstrap**
 
 - ![Bootstrap files] https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css
-- ![Bootstrap files] ("https://getbootstrap.com/docs/5.3/assets/css/docs.css")
-- ![Bootstrap files] ("https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js)
+- ![Bootstrap files] https://getbootstrap.com/docs/5.3/assets/css/docs.css
+- ![Bootstrap files] https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js
 
 **Fontawesome**
 
@@ -868,9 +870,9 @@ The icons in the footer were taken from
 
 - **Pexels and Unsplash website**
 
-- The photos were taken from from This Open Source site
-  [Pexels Site] ("https://www.pexels.com/search/gym/") and
-  [Unsplash Site] ("https://unsplash.com/s/photos/gym")
+- **The photos were taken from from This Open Source site**
+- ![Pexels Site] Pexel site ("https://www.pexels.com/search/gym/")
+- ![Unsplash Site] ("https://unsplash.com/s/photos/gym")
 
 - The photos used in the home, classes and aboutus page.
 - The photos used on the home page .
