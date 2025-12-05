@@ -290,7 +290,7 @@ C. **Laptop Resolution 1024x520**
 ## Home page
 
 1. Official W3C validator
-   [W3C validator](https://validator.w3.org/nu/?doc=https://Moh2700.github.io/gym/index.html)
+   [W3C validator](https://validator.w3.org/nu/?doc=https://Moh2700.github.io/gym_01/index.html)
 
 2. **Evidence**
 
@@ -299,7 +299,7 @@ C. **Laptop Resolution 1024x520**
 ## aboutus page
 
 1. Official W3C validator
-   [W3C validator](https://validator.w3.org/nu/?doc=https://Moh2700.github.io/gym/aboutus.html)
+   [W3C validator](https://validator.w3.org/nu/?doc=https://Moh2700.github.io/gym_01/aboutus.html)
 
 2. **Evidence**
 
@@ -308,7 +308,7 @@ C. **Laptop Resolution 1024x520**
 ## Instructor page
 
 1. Official W3C validator
-   [W3C validator](https://validator.w3.org/nu/?doc=https://Moh2700.github.io/gym/instructor.html)
+   [W3C validator](https://validator.w3.org/nu/?doc=https://Moh2700.github.io/gym_01/instructor.html)
 
 2. **Evidence**
 
@@ -317,7 +317,7 @@ C. **Laptop Resolution 1024x520**
 ## Contact page
 
 1. Official W3C validator
-   [W3C validator](https://validator.w3.org/nu/?doc=https://Moh2700.github.io/gym/contact.html)
+   [W3C validator](https://validator.w3.org/nu/?doc=https://Moh2700.github.io/gym_01/contact.html)
 
 2. **Evidence**
 
@@ -326,7 +326,7 @@ C. **Laptop Resolution 1024x520**
 ## Classes page
 
 1. Official W3C validator
-   [W3C validator](https://validator.w3.org/nu/?doc=https://Moh2700.github.io/gym/classes.html)
+   [W3C validator](https://validator.w3.org/nu/?doc=https://Moh2700.github.io/gym_01/classes.html)
 
 2. **Evidence**
 
@@ -335,7 +335,7 @@ C. **Laptop Resolution 1024x520**
 ## Membership page
 
 1. Official W3C validator
-   [W3C validator](https://validator.w3.org/nu/?doc=https://Moh2700.github.io/gym/membership.html)
+   [W3C validator](https://validator.w3.org/nu/?doc=https://Moh2700.github.io/gym_01/membership.html)
 
 2. **Evidence**
 
@@ -344,7 +344,7 @@ C. **Laptop Resolution 1024x520**
 ## Gallery page
 
 1. Official W3C validator
-   [W3C validator](https://validator.w3.org/nu/?doc=https://Moh2700.github.io/gym/gallery.html)
+   [W3C validator](https://validator.w3.org/nu/?doc=https://Moh2700.github.io/gym_01/gallery.html)
 
 2. **Evidence**
 
@@ -353,7 +353,7 @@ C. **Laptop Resolution 1024x520**
 **CSS Validation**
 
 1. No errors were found when passing through the official
-   [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2FMoh2700.github.io%2Fgym%2Fassets%2Fcss%2Fstyle.css&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
+   [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2FMoh2700.github.io%2Fgym_01%2Fassets%2Fcss%2Fstyle.css&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
 
 2. ![Validation](./assets/images/testingpart1/validation/cssvalidation.PNG)
 
@@ -393,42 +393,42 @@ In the membership last section the user can make a selection on **[Happy Deal]**
 - The site was deployed to GitHub pages. The steps to deploy are as follows:
 - In the GitHub repository, navigate to the Settings tab
 
-![Deployment](./assets/images/testingpart1/deployment/settingstab.PNG)
+![Deployment ](./assets/images/testingpart1/deployment/settingstab.PNG)
 
 - From the source section drop-down menu, select the Master Branch
-  ![Deployment](./assets/images/testingpart1/deployment/branch2.PNG)
+  ![Deployement ](./assets/images/testingpart1/deployment/branch2.PNG)
 
 - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
 
-The live link can be found here - https://Moh2700.github.io/gym/index.html
+The live link can be found here - https://Moh2700.github.io/gym_01/index.html
 
 # Credits
 
 This code is taken taken from w3 schools for image rendering in the css file for gallery page.
-![W3 Schools] (https://www.w3schools.com/)
+![W3 Schools](https://www.w3schools.com/)
 
 # Content
 
 **Bootstrap**
 
-- [Bootstrap files] ("https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css")
-- [Bootstrap files] ("https://getbootstrap.com/docs/5.3/assets/css/docs.css")
-- [Bootstrap files] ("https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js)
+- [Bootstrap files]("https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css")
+- [Bootstrap files]("https://getbootstrap.com/docs/5.3/assets/css/docs.css")
+- [Bootstrap files]("https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js)
 
 **Fontawesome**
 
 The icons in the footer were taken from
 
-- [Font Awesome site] (https://fontawesome.com/)
-- [Font awesome file] Javascript file fontawesome icons ("https://kit.fontawesome.com/dadada79ef.js")
+- [Font Awesome site](https://fontawesome.com/)
+- [Font awesome file]Javascript file fontawesome icons("https://kit.fontawesome.com/dadada79ef.js")
 
 # Media
 
 - **Pexels and Unsplash website**
 
 - The photos were taken from from This Open Source site
-  [Pexels Site] ("https://www.pexels.com/search/gym/") and
-  [Unsplash Site] ("https://unsplash.com/s/photos/gym")
+  [Pexels Site]("https://www.pexels.com/search/gym/") and
+  [Unsplash Site]("https://unsplash.com/s/photos/gym")
 
 - The photos used in the home, classes and aboutus page.
 - The photos used on the home page .
