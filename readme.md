@@ -400,7 +400,7 @@ In the membership last section the user can make a selection on **[Happy Deal]**
 
 - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
 
-The live link can be found here - https://Moh2700.github.io/gym/index.html
+The live link can be found here - https://Moh2700.github.io/gym_01/index.html
 
 # Credits
 
