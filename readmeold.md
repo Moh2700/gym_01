@@ -1,5 +1,3 @@
-<<<<<<< HEAD:readme.md
-
 # Feel Good Gym overview
 
 At Feel Good Gym, we believe that fitness is more than just exercise — it’s a lifestyle dedicated to strength, energy, and balance. Taking care of your body means investing in your long-term health, confidence, and happiness.
@@ -895,5 +893,3 @@ git push -u origin main
 git remote add origin https://github.com/Moh2700/gym_01.git
 git branch -M main
 git push -u origin main
-
-> > > > > > > the readme file is not shown:README.md
