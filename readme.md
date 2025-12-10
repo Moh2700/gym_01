@@ -422,6 +422,10 @@ The icons in the footer were taken from
 - [Font Awesome site] (https://fontawesome.com/)
 - [Font awesome file] Javascript file fontawesome icons ("https://kit.fontawesome.com/dadada79ef.js")
 
+# Repository commit
+
+- The repo commits are low due to the change of project submession from [gym] https://Moh2700.github.io/gym/index.html to [gym_01] https://Moh2700.github.io/gym_01/index.html. Everything can be verified when visiting my old project [gym] https://Moh2700.github.io/gym/index.html on github.
+
 # Media
 
 - **Pexels and Unsplash website**
